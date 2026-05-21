@@ -7,7 +7,7 @@ Real worked examples of using the iteration method on real problems. Each one is
 ### By domain
 
 **Career / credential planning**
-- [2026-05 — Compressing a 2+ year credential path to ~12 months](./2026-05-paramedic-compression.md) — Mo's 4-hour conversation that started at "24-28 months" and ended at "10-14 months realistic"
+- [2026-05 — Compressing a 2+ year credential path to ~12 months](./2026-05-paramedic-compression.md) — A 4-hour conversation that started at "24-28 months" and ended at "10-14 months realistic"
 
 **Consulting / freelancing**
 - _(your case study here — see template)_

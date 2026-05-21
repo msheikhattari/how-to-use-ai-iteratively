@@ -42,7 +42,7 @@ That's it. You don't need anything else.
 
 If you're going to use AI for ongoing work (planning, drafting, research), Claude Code lets you have a structured workspace with files Claude reads automatically.
 
-This is what Mo (the case study person) uses. It's more setup but more powerful for sustained work.
+This is what the case study contributor uses. It's more setup but more powerful for sustained work.
 
 To install:
 1. Install Node.js (search "install node.js" — the official site has a downloader)
